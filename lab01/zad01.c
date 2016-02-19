@@ -7,4 +7,5 @@ int main()
   scanf("%d", &x);
   y=x%3;
   printf("Reszta z dzielenia przez 3: %d\n", y);
+  return y;
 }
