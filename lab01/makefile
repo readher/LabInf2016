@@ -1,0 +1,14 @@
+
+sources = zad01.c, zad04.c, zad05.c, zad06.c
+
+programs = $(basename $(sources))
+objects = $(addsuffix .o, $(programs))
+
+CFLAGS = -Wall -std=c11
+LDLIBS = -lm
+
+.PHONY : clean
+clean :
+	-$(RM) $(objects) $(programs) *~
+
+all : $(programs)
