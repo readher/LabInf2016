@@ -29,6 +29,4 @@ int main()
   long double ld=0.000001;
   long double lde=ld/2.0;
   printf("Long double: %Lf / 2 = %Lf\n", ld, lde);
-
-  return 0;
 }
