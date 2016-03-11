@@ -31,6 +31,4 @@ int main()
     i++;
   }
   printf("%i dzielen, %Lf -> %Le\n\n", i, z, z);
-  
-  return 0;
 }
