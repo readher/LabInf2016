@@ -7,7 +7,7 @@ S. Sokolowski
 1. [Laboratorium 1](lab01)
   * [x]  [Zadanie 1](lab01/zad01.c)
   * [x]  [Zadanie 2](lab01/zad02.c)
-  * [ ]  [Zadanie 3](lab01/zad03.c)
+  * [x]  [Zadanie 3](lab01/zad03.c)
   * [x]  [Zadanie 4](lab01/zad04.c)
   * [x]  [Zadanie 5](lab01/zad05.c)
   * [x]  [Zadanie 6](lab01/zad06.c)
