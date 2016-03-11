@@ -1,3 +1,5 @@
+//Sprawdzić, wykonując odpowiednie testy, jak działają operacje rzutowania z typów ,,mniejszych'' do ,,większych'' i odwrotnie.
+
 #include<stdio.h>
 #include<limits.h>
 #include<float.h>
