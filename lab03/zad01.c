@@ -1,3 +1,5 @@
+//Napisać program, który bada poznane typy liczbowe w C
+
 #include<stdio.h>
 #include<limits.h>
 #include<float.h>
