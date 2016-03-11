@@ -1,3 +1,5 @@
+//Napisać programy testujące działanie operatorów z efektami ubocznymi w różnych sytuacjach, od których może zależeć wynik działania.
+
 #include <stdio.h>
 
 void wypisz_tab(int tab[], int size)
