@@ -31,6 +31,6 @@ S. Sokolowski
   |long double|       16|       3.362103e-4932|       1.189731e+4932|   1.084202e-19|      18  |
 
  * [x] [Zadanie 1](lab03/zad01.c)
- * [ ] [Zadanie 2](lab03/zad02.c)
- * [ ] [Zadanie 3](lab03/zad03.c)
- * [ ] [Zadanie 4](lab03/zad04.c)
+ * [x] [Zadanie 2](lab03/zad02.c)
+ * [x] [Zadanie 3](lab03/zad03.c)
+ * [x] [Zadanie 4](lab03/zad04.c)
