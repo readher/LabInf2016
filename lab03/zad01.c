@@ -11,5 +11,4 @@ int main()
   printf("float:\nDolna wartosc: %f\nGorna wartosc: %f\nZiarno: %f\nPrecyzja: %i\n\n", FLT_MIN, FLT_MAX, FLT_EPSILON, FLT_DIG);
   printf("double:\nDolna wartosc: %lf\nGorna wartosc: %lf\nZiarno: %lf\nPrecyzja: %i\n\n", DBL_MIN, DBL_MAX, DBL_EPSILON, DBL_DIG);
   printf("long double:\nDolna wartosc: %Lf\nGorna wartosc: %Lf\nZiarno: %Lf\nPrecyzja: %i\n\n", LDBL_MIN, LDBL_MAX, LDBL_EPSILON, LDBL_DIG);
-  return 0;
 }
