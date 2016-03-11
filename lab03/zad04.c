@@ -1,3 +1,5 @@
+//Eksperymentalnie zbadać ,,ziarno'' w różnych typach rzeczywistych.
+
 #include <stdio.h>
 
 int main()
