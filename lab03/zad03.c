@@ -14,4 +14,7 @@ int main()
  	printf("LDBL_MAX na (double)LDBL_MAX: '%Le' do '%e' \n", LDBL_MAX, (double)LDBL_MAX);
   	printf("INT_MAX na (float)FLT_MAX: '%i' do '%e' \n", INT_MAX, (float)INT_MAX);
   	printf("LLONG_MAX na (double)LLONG_MAX: '%lli' do '%e' \n", LLONG_MAX, (double)LLONG_MAX);
+  	
+  	// W przypadku rzutowania z LDBL_MAX na (double)LDLB_MAX, roznica jest tak duza, ze zamiast liczby zostaje wypisane "inf",
+  	// to jest infinity (nieskonczonosc).
 }
