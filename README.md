@@ -12,10 +12,10 @@
   * [x]  [Zadanie 6](lab01/zad06.c)
 
 2. [Laboratorium 2](lab02)
- * [ ] [Zadanie 0](lab02/zad00.c)
- * [ ] [Zadanie 1](lab02/zad01.c)
+ * [x] [Zadanie 0](lab02/zad00.c)
+ * [x] [Zadanie 1](lab02/zad01.c)
  * [ ] [Zadanie 2](lab02/zad02.c)
- * [ ] [Zadanie 3](lab02/zad03.c)
+ * [x] [Zadanie 3](lab02/zad03.c)
 
 3. [Laboratorium 3](lab03)
 
