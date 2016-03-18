@@ -37,3 +37,23 @@
 4. [Laboratorium 4](lab04)
  * [x] [Zadanie 1](lab04/zad01.c)
  * [ ] [Zadanie 2](lab04/zad02.c)
+
+5. [Laboratorium 5](lab05)
+ * [x] [Zadanie 1](lab05/zad01.c)
+ * [ ] [Zadanie 2](lab05/zad02.c)
+
+6. [Laboratorium 6](lab06)
+ * [ ] [Zadanie 1](lab06/zad01.c)
+ * [ ] [Zadanie 2](lab06/zad02.c)
+ * [ ] [Zadanie 3](lab06/zad03.c)
+
+7. [Laboratorium 7](lab07)
+ * [ ] [Zadanie 1](lab07/zad01.c)
+ * [ ] [Zadanie 2](lab07/zad02.c)
+ * [ ] [Zadanie 3](lab07/zad03.c)
+
+8. [Laboratorium 8](lab08)
+ * [ ] [Zadanie 1](lab08/zad01.c)
+ * [ ] [Zadanie 2](lab08/zad02.c)
+ * [ ] [Zadanie 3](lab08/zad03.c)
+ * [ ] [Zadanie 3](lab08/zad04.c)
