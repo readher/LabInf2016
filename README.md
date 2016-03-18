@@ -35,5 +35,5 @@
  * [x] [Zadanie 4](lab03/zad04.c)
 
 4. [Laboratorium 4](lab04)
- * [ ] [Zadanie 1](lab04/zad01.c)
+ * [x] [Zadanie 1](lab04/zad01.c)
  * [ ] [Zadanie 2](lab04/zad02.c)
