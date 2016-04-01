@@ -40,7 +40,7 @@
 
 5. [Laboratorium 5](lab05)
  * [x] [Zadanie 1](lab05/zad01.c)
- * [ ] [Zadanie 2](lab05/zad02.c)
+ * [x] [Zadanie 2](lab05/zad02.c)
 
 6. [Laboratorium 6](lab06)
  * [ ] [Zadanie 1](lab06/zad01.c)
