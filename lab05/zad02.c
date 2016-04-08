@@ -107,7 +107,7 @@ int main()
   sortuj_spis();
   do
   {
-    printf("\n Znalezc wg imienia (I), nazwiska (N), czy zakonczyc (Q)? ");
+    printf("\n Szukac wg imienia (I), nazwiska (N), czy zakonczyc program (Q)? ");
     do{odpowiedz = getchar();}
     while(isspace(odpowiedz));
     odpowiedz = tolower(odpowiedz);
