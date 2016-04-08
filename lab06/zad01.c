@@ -8,11 +8,8 @@
 //Ani w definicji typu lista, ani w ciele funkcji odwroc, ani w części main programu niczego nie zmieniać -- tylko wypełnić ciała tych funkcji, których jedyną zawartością jest komentarz. Definiowane funkcje (z wyjątkiem funkcji druk) nie mogą niczego pisać ani czytać.
 
 #include <stdio.h>
-
 #include <stdlib.h>
-
 #include <string.h>
-
 #define MAX_DL_SLOWA 30
 
 typedef struct sl
