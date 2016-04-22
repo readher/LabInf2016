@@ -53,7 +53,7 @@
  * [x] [Zadanie 3](lab07/zad03.c)
 
 8. [Laboratorium 8](lab08)
- * [ ] [Zadanie 1](lab08/zad01.c)
- * [ ] [Zadanie 2](lab08/zad02.c)
- * [ ] [Zadanie 3](lab08/zad03.c)
- * [ ] [Zadanie 3](lab08/zad04.c)
+ * [x] [Zadanie 1](lab08/zad01.c)
+ * [x] [Zadanie 2](lab08/zad02.c)
+ * [x] [Zadanie 3](lab08/zad03.c)
+ * [x] [Zadanie 3](lab08/zad04.c)
