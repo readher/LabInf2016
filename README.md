@@ -48,7 +48,7 @@
  * [ ] [Zadanie 3](lab06/zad03.c)
 
 7. [Laboratorium 7](lab07)
- * [ ] [Zadanie 1](lab07/zad01.c)
+ * [x] [Zadanie 1](lab07/zad01.c)
  * [ ] [Zadanie 2](lab07/zad02.c)
  * [ ] [Zadanie 3](lab07/zad03.c)
 
