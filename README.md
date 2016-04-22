@@ -49,7 +49,7 @@
 
 7. [Laboratorium 7](lab07)
  * [x] [Zadanie 1](lab07/zad01.c)
- * [ ] [Zadanie 2](lab07/zad02.c)
+ * [x] [Zadanie 2](lab07/zad02.c)
  * [ ] [Zadanie 3](lab07/zad03.c)
 
 8. [Laboratorium 8](lab08)
