@@ -14,7 +14,7 @@
 2. [Laboratorium 2](lab02)
  * [x] [Zadanie 0](lab02/zad00.c)
  * [x] [Zadanie 1](lab02/zad01.c)
- * [ ] [Zadanie 2](lab02/zad02.c)
+ * [x] [Zadanie 2](lab02/zad02.c)
  * [x] [Zadanie 3](lab02/zad03.c)
 
 3. [Laboratorium 3](lab03)
