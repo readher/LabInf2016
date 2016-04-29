@@ -44,8 +44,8 @@
 
 6. [Laboratorium 6](lab06)
  * [x] [Zadanie 1](lab06/zad01.c)
- * [ ] [Zadanie 2](lab06/zad02.c)
- * [ ] [Zadanie 3](lab06/zad03.c)
+ * [x] [Zadanie 2](lab06/glowny.c.c)
+ * [x] [Zadanie 3](lab06/glowny.c.c)
 
 7. [Laboratorium 7](lab07)
  * [x] [Zadanie 1](lab07/zad01.c)
