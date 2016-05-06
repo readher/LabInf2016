@@ -4,7 +4,6 @@
  //Byc tam, zawsze tam, gdzie Ty.
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main (int ile_arg, char* arg[ ])
 {
