@@ -59,8 +59,8 @@
  * [x] [Zadanie 4](lab08/zad04.c)
 
 9. [Laboratorium 9](lab09)
- * [ ] [Zadanie 1](lab09/zad01.c)
- * [ ] [Zadanie 2](lab09/zad02.c)
+ * [x] [Zadanie 1](lab09/zad01.c)
+ * [x] [Zadanie 2](lab09/zad02.c)
  
 10. [Laboratorium 10](lab10)
  * [ ] [Zadanie 1](lab10/zad01.c)
