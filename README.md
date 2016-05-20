@@ -63,7 +63,7 @@
  * [x] [Zadanie 2](lab09/zad02.c)
  
 10. [Laboratorium 10](lab10)
- * [ ] [Zadanie 1](lab10/zad01.c)
+ * [x] [Zadanie 1](lab10/zad01.c)
  * [ ] [Zadanie 2](lab10/zad02.c)
  * [ ] [Zadanie 3](lab10/zad03.c)
 
