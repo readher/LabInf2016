@@ -5,8 +5,11 @@
 
 Ulubione:
 1. [Zadanie 1 z Laboratorium 3 (w tym tabelka w Readme)](lab03/zad01.c)
+
 2. [Zadanie 1 z Laboratorium 4](lab04/zad01.c)
+
 3. [Prosta gra RPG z funkcja eksportowania statystyk postaci do pliku character.txt (plik musi byc uprzednio utworzony w tym samym miejscu co .exe gry](gra/gra.c)
+
 4. [Zadanie 1 z Laboratorium 11](lab11/zad01.c)
 
 1. [Laboratorium 1](lab01)
