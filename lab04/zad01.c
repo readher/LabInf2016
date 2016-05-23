@@ -8,37 +8,27 @@
 #include <stdlib.h>
 #include <complex.h>
 
-/****************************************************************/
-// DEFINICJA TYPU LICZB ZESPOLONYCH:
 typedef struct
 {
   double rea, ima;
 } zespol;
-/****************************************************************/
-// POMOCNICZE:
+
 void err(char s[])
 {
-  // -- sygnalizacja bledu wejscia
   printf("\n!!! FUNKCJA zesp_get: %s !!!\n\n", s);
   exit(1);
 }
-/****************************************************************/
-// INICJALIZACJE oraz WEJSCIE-WYJSCIE:
+
 zespol zesp_zestawic(double r, double i)
 {
-  // zestawienie liczby zespolonej z dwoch rzeczywistych
   zespol z;
   z.rea=r;
   z.ima=i;
   return z;
 }
+
 zespol zesp_get(void)
 {
-  /* wczytanie liczby zespolonej; powinna skladac sie z dwoch
-  rzeczywistych, oraz plusa lub minusa miedzy nimi, zaczynac sie od
-  nawiasu otwierajacego, konczyc sie litera ,,i'' oraz nawiasem
-  zamykajacym;
-  np. (123.45 + 67.89i) */
   char ch;
   zespol z;
   int znak_im;
@@ -81,14 +71,13 @@ zespol zesp_get(void)
   } else err("brak rozpoczynajacego nawiasu");
   return z;
 }
+
 void zesp_print(zespol z)
 {
-  // drukowanie liczby zespolonej
   if(z.ima>=0) printf("(%.2lf+%.2lfi)", z.rea, z.ima);
   else printf("(%.2lf-%.2lfi)", z.rea, -z.ima);
 }
-/****************************************************************/
-// DZIALANIA:
+
 zespol zesp_dodac(zespol z1, zespol z2)
 {
   zespol wyn;
@@ -96,7 +85,7 @@ zespol zesp_dodac(zespol z1, zespol z2)
   wyn.ima=z1.ima+z2.ima;
   return wyn;
 }
-// dodawanie liczb zespolonych
+
 zespol zesp_odjac(zespol z1, zespol z2)
 {
   zespol wyn;
@@ -104,7 +93,7 @@ zespol zesp_odjac(zespol z1, zespol z2)
   wyn.ima=z2.ima-z2.ima;
   return wyn;
 }
-// odejmowanie liczb zespolonych
+
 zespol zesp_razy(zespol z1, zespol z2)
 {
   zespol wyn;
@@ -112,22 +101,21 @@ zespol zesp_razy(zespol z1, zespol z2)
   wyn.ima=z1.rea*z2.ima+z1.ima*z2.rea;
   return wyn;
 }
-// mnozenie liczb zespolonych
+
 zespol zesp_sprzez(zespol z)
 {
   zespol wyn;
   wyn.ima=-z.ima;
   return wyn;
 }
-// liczba sprzezona do danej zespolonej
+
 double zesp_abs(zespol z)
 {
   double wyn;
   wyn=sqrt(z.rea*z.rea+z.ima*z.ima);
   return wyn;
 }
-// wartosc bezwzgledna liczby zespolonej
-/****************************************************************/
+
 int main()
 {
   zespol z1, z2;
