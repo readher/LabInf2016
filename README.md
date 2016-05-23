@@ -74,7 +74,7 @@ Ulubione:
  * [ ] [Zadanie 3](lab10/zad03.c)
 
 11. [Laboratorium 11](lab11)
- * [ ] [Zadanie 1](lab11/zad01.c)
+ * [x] [Zadanie 1](lab11/zad01.c)
  * [ ] [Zadanie 2](lab11/zad02.c)
  * [ ] [Zadanie 3](lab11/zad03.c)
 
